@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(rgba(97, 96, 96, 0.11), rgba(0, 0, 0, 0.164)), url("../imagens/desenho-loucao.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: rgb(75, 74, 74);
+    color: white;
+    font-size: 18px;
+    padding-top: 0px;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 4px;
+}
